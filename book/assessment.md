@@ -1,3 +1,4 @@
++++
 # Assessment
 
 The final grade of the course consists of the following components:
@@ -28,4 +29,4 @@ In case of an insufficient final result, repair opportunities may be offered in 
 
 Disclaimer: information may change depending on unforeseen circumstances or measures (see: TER Art 29, sub 4).
 
-In case the assignment or project is not submitted on time, which means it won't be evaluated, there won't be any repair opportunity.\
+In case the assignment or project is not submitted on time, which means it won’t be evaluated, there won’t be any repair opportunity.
