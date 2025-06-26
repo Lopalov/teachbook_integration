@@ -4,7 +4,6 @@ root: intro.md
 parts:
   - caption: Contents
     chapters:
-    - file: course_description.md
     - file: learning_objectives.md
     - file: structure_and_dates.md
     - file: assessment.md
