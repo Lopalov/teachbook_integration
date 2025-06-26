@@ -15,7 +15,7 @@ R. Merlin - R.Merlin@tudelft.nl
 
 Circe - Circe@tudelft.nl
 
-```{image} https://upload.wikimedia.org/wikipedia/commons/d/d9/Circe_Offering_the_Cup_to_Odysseus.jpg
+```{image} https://github.com/Lopalov/teachbook_integration/blob/main/book/figures/Circe.png?raw=true
 :class: 
 :align: left
 :title: 
