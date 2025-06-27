@@ -3,7 +3,7 @@
 
 ## Education Method
 
-In total, there will be about 7 lectures. Students will also learn via an assignment and 2 projects (each group gets individual supervision).
+In total, there will be about 7 lectures. Students will also learn via an assignment and a final project (each group gets individual supervision).
 
 ## Education Period
 
